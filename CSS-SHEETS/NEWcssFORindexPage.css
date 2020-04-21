@@ -1,0 +1,53 @@
+<!DOCTYPE html> 
+<html lang="en">    
+
+<head>      
+<title>Home Page</title>
+
+    
+   
+<style>
+
+.button { 
+border: none;
+color: white;
+padding: 15px 32px;
+text-align: center;
+
+font-size: 16px;
+}
+    
+.auto-style1 {
+border-style:inset;
+border-color: inherit;
+border-width:thin;
+background-color:orange;
+color: white;
+padding: 15px 20px;
+text-align: center;
+text-decoration: none;
+display:inline-block;
+font-size: 16px;
+margin-left: 700px;
+   
+}
+    
+.auto-style2{
+margin-left: 1600px;
+}
+
+</style>
+    
+</head>
+<body>
+
+
+<header>
+       
+                      
+</header>            
+<footer>
+
+</footer>
+</body>
+</html>

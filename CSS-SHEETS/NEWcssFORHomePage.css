@@ -1,0 +1,50 @@
+<!DOCTYPE html> 
+<html lang="en">    
+
+<head>      
+<title>Home Page</title>
+    
+    
+<style>
+body
+  
+.button { 
+  
+  color: white;
+  padding: 15px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  
+    }
+ 
+.auto-style1 {
+	border-style:inset;
+	border-color: inherit;
+	border-width:thin;
+	background-color:orange;
+	color: white;
+	padding: 9px 150px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 20px;  
+    }
+h1{
+    color: white;
+    text-align: center;
+}
+iframe{
+    padding-left:500px;
+}
+   nav{
+       background-color: black;
+}
+    </style>
+    
+<header>
+                                   
+</header>            
+   
+</body>
+</html>
